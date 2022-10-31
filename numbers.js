@@ -1,0 +1,22 @@
+let age = 18
+let date = 2004
+let dateNumber = 18
+let brotherNumber = 1
+let sisterNumber = 1
+let numberOfFamily = 5 
+let costOfTravel = 210
+let thisYear = 2022
+let euroRate = 61.67
+let dollarRate = 6.33
+let bitcoinRate = 1263671.24
+
+let tyMinusd = thisYear - date
+let tyMinusage = thisYear - age
+let broPlusSis = brotherNumber + sisterNumber
+let euromultiplied = euroRate * 1000
+let dollarmultiplied = dollarRate * 2.5
+let bitcoinDivided = bitcoinRate / 10000
+let costDivideddollar = costOfTravel / dollarRate
+let parentsMe = numberOfFamily - sisterNumber - brotherNumber
+let math = 0 / age
+let math2 = 35 - age
